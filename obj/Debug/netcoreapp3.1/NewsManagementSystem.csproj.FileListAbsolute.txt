@@ -1,0 +1,13 @@
+D:\baitap\NewsManagementSystem\obj\Debug\netcoreapp3.1\NewsManagementSystem.csprojAssemblyReference.cache
+D:\baitap\NewsManagementSystem\obj\Debug\netcoreapp3.1\NewsManagementSystem.AssemblyInfoInputs.cache
+D:\baitap\NewsManagementSystem\obj\Debug\netcoreapp3.1\NewsManagementSystem.AssemblyInfo.cs
+D:\baitap\NewsManagementSystem\obj\Debug\netcoreapp3.1\NewsManagementSystem.csproj.CoreCompileInputs.cache
+D:\baitap\NewsManagementSystem\bin\Debug\netcoreapp3.1\NewsManagementSystem.exe
+D:\baitap\NewsManagementSystem\bin\Debug\netcoreapp3.1\NewsManagementSystem.deps.json
+D:\baitap\NewsManagementSystem\bin\Debug\netcoreapp3.1\NewsManagementSystem.runtimeconfig.json
+D:\baitap\NewsManagementSystem\bin\Debug\netcoreapp3.1\NewsManagementSystem.runtimeconfig.dev.json
+D:\baitap\NewsManagementSystem\bin\Debug\netcoreapp3.1\NewsManagementSystem.dll
+D:\baitap\NewsManagementSystem\bin\Debug\netcoreapp3.1\NewsManagementSystem.pdb
+D:\baitap\NewsManagementSystem\obj\Debug\netcoreapp3.1\NewsManagementSystem.dll
+D:\baitap\NewsManagementSystem\obj\Debug\netcoreapp3.1\NewsManagementSystem.pdb
+D:\baitap\NewsManagementSystem\obj\Debug\netcoreapp3.1\NewsManagementSystem.genruntimeconfig.cache
